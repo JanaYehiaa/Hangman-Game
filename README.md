@@ -16,7 +16,7 @@ The game includes an award system using "gems":
 * Using a hint (which reveals a letter at a position chosen by the user) subtracts 4 gems.
 
 ### Purpose 
-Designing and implementing this interactive game has significantly enhanced our understanding of object-oriented programming (OOP) in C++. The project also emphasized the practical application of Standard Template Library (STL) data structures and concepts. Additionally, it reinforced key principles such as ensuring proper input validation and writing maintainable, modular code.
+Designing and implementing this interactive game has significantly enhanced our understanding of object-oriented programming (OOP) in C++. This project also emphasized the practical application of Standard Template Library (STL) data structures and concepts. Additionally, it reinforced key principles such as ensuring proper input validation and writing maintainable, modular code.
 
 ### Future Work
 * Run the game on a GUI instead of terminal 
